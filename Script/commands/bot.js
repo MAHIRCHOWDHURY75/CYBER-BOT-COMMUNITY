@@ -29,7 +29,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
    
     if ((event.body.toLowerCase() == "help") || (event.body.toLowerCase() == "help")) {
-     return api.sendMessage("__-রাত ১২ টার পর বস মাহির কে ভিডিও কল দিস-!!🌚🔪🐸", threadID);
+     return api.sendMessage("__-রাত ১২ টার পর বস মাহির কে ভিডিও কল দিস-!!🥵💦🍆🤰", threadID);
    };
   
    if ((event.body.toLowerCase() == "Shakib") || (event.body.toLowerCase() == "shakib")) {
@@ -74,25 +74,14 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("𝐇𝐄 𝐈𝐒 𝐌𝐀𝐒𝐇𝐈𝐊-𝐌𝐀𝐇𝐈𝐑-😍😽-তাকে সবাই মাহির নামে  চিনে-!!😎🤙", threadID);
    };
 
-   if ((event.body.toLowerCase() == "ai") || (event.body.toLowerCase() == "Ai")) {
-     return api.sendMessage("If you want to use the AI command, type /ai ", threadID);
+   if ((event.body.toLowerCase() == "𝐌𝐀𝐇𝐈𝐑________// ;* :/ 3:)") || (event.body.toLowerCase() == "@𝐌𝐀𝐇𝐈𝐑________// ;* :/ 3:)")) {
+     return api.sendMessage("বস মাহির কে Mention_দিলে চুম্মাইয়া ঠোঁটের কালার change কইরা,লামু ", threadID);
    };
-
-
-  if ((event.body.toLowerCase() == "ai") || (event.body.toLowerCase() == "Ai")) {
-     return api.sendMessage("If you want to use the AI command, type /ai ", threadID);
-   };
-
 
   
    if ((event.body.toLowerCase() == "chup") || (event.body.toLowerCase() == "stop") || (event.body.toLowerCase() == "চুপ কর") || (event.body.toLowerCase() == "chup kor")) {
      return api.sendMessage("__-তুই চুপ চুপ কর পাগল ছাগল-!!😾🔪", threadID);
    };
-
-  if ((event.body.toLowerCase() == "𝐌𝐀𝐇𝐈𝐑________// ;* :/ 3:)") || (event.body.toLowerCase() == "@𝐌𝐀𝐇𝐈𝐑________// ;* :/ 3:)")) {
-     return api.sendMessage("__-বস মাহির কে Mention_দিলে চুম্মাইয়া ঠোঁটের কালার change কইরালামু-!!🫦🥵💦💯", threadID);
-   };
-
 
   if ((event.body.toLowerCase() == "আসসালামু আলাইকুম") || (event.body.toLowerCase() == "Assalamualaikum") || (event.body.toLowerCase() == "Assalamu alaikum") || (event.body.toLowerCase() == "Salam ")) {
      return api.sendMessage("️- ওয়ালাইকুমুস-সালাম-!!🖤", threadID);
